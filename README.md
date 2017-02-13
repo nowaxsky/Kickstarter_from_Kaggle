@@ -8,7 +8,7 @@ At any given point, Indiegogo has around 10,000 live campaigns while Kickstarter
 
 All of raw data are scraped from Kickstarter.com.
 
-<li> First 4000 live projects that are currently campaigning on Kickstarter (live.csv) </li>
+<ol><li> First 4000 live projects that are currently campaigning on Kickstarter (live.csv) </li>
 
 * Last updated: 2016-10-29 5pm PDT
 * amt.pledged: amount pledged (float)
@@ -24,7 +24,7 @@ All of raw data are scraped from Kickstarter.com.
 * type: type of location (string: County/Island/LocalAdmin/Suburb/Town/Zip)
 * url: project url after domain (string)
 
-<li> Top 4000 most backed projects ever on Kickstarter (most_backed.csv) </li>
+<li> Top 4000 most backed projects ever on Kickstarter (most_backed.csv) </li></ol>
 
 * Last updated: 2016-10-30 10pm PDT
 * amt.pledged

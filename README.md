@@ -8,37 +8,37 @@ At any given point, Indiegogo has around 10,000 live campaigns while Kickstarter
 
 All of raw data are scraped from Kickstarter.com.
 
-<ol><li> First 4000 live projects that are currently campaigning on Kickstarter (live.csv) </li>
+* First 4000 live projects that are currently campaigning on Kickstarter (live.csv) 
 
-* Last updated: 2016-10-29 5pm PDT
-* amt.pledged: amount pledged (float)
-* blurb: project blurb (string)
-* by: project creator (string)
-* country: abbreviated country code (string of length 2)
-* currency: currency type of amt.pledged (string of length 3)
-* end.time: campaign end time (string "YYYY-MM-DDThh:mm:ss-TZD")
-* location: mostly city (string)
-* pecentage.funded: unit % (int)
-* state: mostly US states (string of length 2) and others (string)
-* title: project title (string)
-* type: type of location (string: County/Island/LocalAdmin/Suburb/Town/Zip)
-* url: project url after domain (string)
+  * Last updated: 2016-10-29 5pm PDT
+  * amt.pledged: amount pledged (float)
+  * blurb: project blurb (string)
+  * by: project creator (string)
+  * country: abbreviated country code (string of length 2)
+  * currency: currency type of amt.pledged (string of length 3)
+  * end.time: campaign end time (string "YYYY-MM-DDThh:mm:ss-TZD")
+  * location: mostly city (string)
+  * pecentage.funded: unit % (int)
+  * state: mostly US states (string of length 2) and others (string)
+  * title: project title (string)
+  * type: type of location (string: County/Island/LocalAdmin/Suburb/Town/Zip)
+  * url: project url after domain (string)
 
-<li> Top 4000 most backed projects ever on Kickstarter (most_backed.csv) </li></ol>
+* Top 4000 most backed projects ever on Kickstarter (most_backed.csv)
 
-* Last updated: 2016-10-30 10pm PDT
-* amt.pledged
-* blurb
-* by
-* category: project category (string)
-* currency
-* goal: original pledge goal (float)
-* location
-* num.backers: total number of backers (int)
-* num.backers.tier: number of backers corresponds to the pledge amount in pledge.tier (int[len(pledge.tier)])
-* pledge.tier: pledge tiers in USD (float[])
-* title
-* url
+  * Last updated: 2016-10-30 10pm PDT
+  * amt.pledged
+  * blurb
+  * by
+  * category: project category (string)
+  * currency
+  * goal: original pledge goal (float)
+  * location
+  * num.backers: total number of backers (int)
+  * num.backers.tier: number of backers corresponds to the pledge amount in pledge.tier (int[len(pledge.tier)])
+  * pledge.tier: pledge tiers in USD (float[])
+  * title
+  * url
 
 See more at http://datapolymath.paperplane.io/
 

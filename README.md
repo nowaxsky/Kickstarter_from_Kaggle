@@ -2,6 +2,9 @@
 Crowdfunding has become one of the main sources of initial capital for small businesses and start-up companies that are looking to launch their first products. Websites like Kickstarter and Indiegogo provide a platform for millions of creators to present their innovative ideas to the public. This is a win-win situation where creators could accumulate initial fund while the public get access to cutting-edge prototypical products that are not available in the market yet.
 
 At any given point, Indiegogo has around 10,000 live campaigns while Kickstarter has 6,000. It has become increasingly difficult for projects to stand out of the crowd. Of course, advertisements via various channels are by far the most important factor to a successful campaign. However, for creators with a smaller budget, this leaves them wonder,
+
+**"How do we increase the probability of success of our campaign starting from the very moment we create our project on these websites?"**
+
 ~by Cathie So on Kaggle, see more at https://www.kaggle.com/socathie/kickstarter-project-statistics
 
 ## Data Sources
